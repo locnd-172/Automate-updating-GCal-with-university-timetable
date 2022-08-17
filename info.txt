@@ -1,0 +1,5 @@
+4  # campus: FUHCM
+Summer2022 # term 
+49 # term id
+SE1618 # class
+SWP391 SWT301 # subjects
